@@ -1,0 +1,289 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "085ec2d5146a0efe22fe68ce46aeb849c805d6cd",
+   "pkgpath": "Data/095890d8c9bde1a45b549a17e6e6f961",
+   "size": 5036,
+   "src": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/Temp/StagingArea/Data/095890d8c9bde1a45b549a17e6e6f961"
+  },
+  {
+   "compression": 8,
+   "hash": "b4fc1fd6a8d7850c6c94322ba6fa8150bd652178",
+   "pkgpath": "Data/9c9078c06443df049a2830962f9dd5ef",
+   "size": 49642,
+   "src": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/Temp/StagingArea/Data/9c9078c06443df049a2830962f9dd5ef"
+  },
+  {
+   "compression": 8,
+   "hash": "0ce16f8bb089dbbdbc73542659571573a518b333",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 2781732,
+   "src": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "6e96339b556d0b0622654d71145ee9ff4f3da8cf",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 33964448,
+   "src": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\magic\\Documents\\Unity\\ML CERTS\\Practice Cert\\mlpracticecert.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "21cf4e50a1012c039e9a81878db301718ef5b578",
+   "xfrm_path": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-21832d9a906e63b0\\libil2cpp.so-fc604601f97b6098",
+   "xfrm_size": 33965206
+  },
+  {
+   "compression": 8,
+   "hash": "dc64ed4bee950e5ce1ab12268f627a3db179e4af",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 220456,
+   "src": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\magic\\Documents\\Unity\\ML CERTS\\Practice Cert\\mlpracticecert.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "87140d2c6a3f7ef9039d2dce73e97add85cb8cd9",
+   "xfrm_path": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-21832d9a906e63b0\\AudioPluginMSASpatializer.so-7d5790ea5b40a17b",
+   "xfrm_size": 221214
+  },
+  {
+   "compression": 8,
+   "hash": "aed32544e1ea67c511396569fcb89b586b15d839",
+   "pkgpath": "bin/UnityEngine.SpatialTracking.dll",
+   "size": 9216,
+   "src": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/Temp/StagingArea/Data/Plugins/UnityEngine.SpatialTracking.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "715f293d231a26472ba1672c3e59f76cb0e5e364",
+   "pkgpath": "bin/UnityEngine.TestRunner.dll",
+   "size": 65536,
+   "src": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "d93ff7b64d92abd6dbb8419c3348ab5f56ad5ec5",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 728232,
+   "src": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\magic\\Documents\\Unity\\ML CERTS\\Practice Cert\\mlpracticecert.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "d110d6c830bc1c4a06e76c67eb344126e5d62ec6",
+   "xfrm_path": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-21832d9a906e63b0\\UnityMagicLeap.so-7d5790ea5b40a17b",
+   "xfrm_size": 728990
+  },
+  {
+   "compression": 8,
+   "hash": "a765bb75be250a6992c1a46fc23a55501e369b85",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\magic\\Documents\\Unity\\ML CERTS\\Practice Cert\\mlpracticecert.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "6666f78508b64f1d11029f2282ee412a3c305b9c",
+   "xfrm_path": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-21832d9a906e63b0\\libml_camera_plugin.so-7d5790ea5b40a17b",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "633780c922a0dbfe032638afff9a25e3fc49219f",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 38792,
+   "src": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\magic\\Documents\\Unity\\ML CERTS\\Practice Cert\\mlpracticecert.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "7b68a219d3c2d2be76e694b84aed03eacffff03f",
+   "xfrm_path": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-21832d9a906e63b0\\libml_mediaplayer_plugin.so-7d5790ea5b40a17b",
+   "xfrm_size": 39550
+  },
+  {
+   "compression": 8,
+   "hash": "5629c7ff5fb59ddc72778d4b9d3dbadcde480998",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 328192,
+   "src": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "dc1423ee40a78f4701880b37e1f07bc4f3500e9d",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3308004,
+   "src": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "1c281a7abd7f0cec77eb390c3aa4d795a656335e",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 393452,
+   "src": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "9bbb5e3aae616602db933abd34140e11132fccea",
+   "pkgpath": "Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json",
+   "size": 438,
+   "src": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/Temp/StagingArea/Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "51a9aaf49f27706073fdcbdd7bcd17adc2781c57",
+   "pkgpath": "Data/adcae46baa3736748a69f9f489676bd7",
+   "size": 49726,
+   "src": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/Temp/StagingArea/Data/adcae46baa3736748a69f9f489676bd7"
+  },
+  {
+   "compression": 8,
+   "hash": "e94169e04982098c15b71dea64d4bb6da942f232",
+   "pkgpath": "Data/boot.config",
+   "size": 76,
+   "src": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "a58376c37f5334cfafd4ec457768a96195cd8382",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 35420,
+   "src": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "1d05a37fab8b26487053566416843b24bf0cb570",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 36168,
+   "src": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "66ea696bd1f694f9940e180cd72acced219d5b15",
+   "pkgpath": "Data/level0",
+   "size": 18740,
+   "src": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "571eb12d7aa87ae03ccce926de7eeb72c32917fb",
+   "pkgpath": "Data/level0.resS",
+   "size": 131232,
+   "src": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/Temp/StagingArea/Data/level0.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "7d3065d7da8109fd28fb3193c10dd3c89ec90b18",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 530408,
+   "src": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "f228952d0ac35b67a2307b8b1e3f0920560908a1",
+   "pkgpath": "Data/sharedassets0.assets.resS",
+   "size": 2118996,
+   "src": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/Temp/StagingArea/Data/sharedassets0.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "8f59c553fa65e4c62b244f94275fdf50ef6a40e8",
+   "pkgpath": "bin/Player.elf",
+   "size": 22318968,
+   "src": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\magic\\Documents\\Unity\\ML CERTS\\Practice Cert\\mlpracticecert.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "cbcf49ded1d33279fc608496123e75e2cff7884a",
+   "xfrm_path": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-21832d9a906e63b0\\Player.elf-c78f7ddbfbc91340",
+   "xfrm_size": 22319726
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "C:/Users/magic/MagicLeap/mlsdk/v0.19.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\magic\\Documents\\Unity\\ML CERTS\\Practice Cert\\mlpracticecert.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "900455d8eef0231feed4c517c6ff22b0f737e6a3",
+   "xfrm_path": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-21832d9a906e63b0\\libc++_shared.so-9ef65ad10f5ad5db",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "36b152cfb0f6c1841710d48a2522a56cb8de2838",
+   "pkgpath": "manifest.xml",
+   "size": 647,
+   "src": "C:\\Users\\magic\\Documents\\Unity\\Toolbox\\Toolbox\\Finger Fire ML\\Temp\\StagingArea\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "5915e3ab30187bf2c8d6306782c1429e080b30f6",
+     "developer_id": "e284bc5f-a1e1-4964-b59b-334f8a5f4668"
+    }
+   },
+   "xfrm_hash": "7c6fce94bd47a36e19ef1bf92231156a678960bd",
+   "xfrm_path": "C:/Users/magic/Documents/Unity/Toolbox/Toolbox/Finger Fire ML/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-21832d9a906e63b0\\manifest.xml-c78f7ddbfbc91340",
+   "xfrm_size": 659
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\Users\\magic\\Documents\\Unity\\ML CERTS\\Practice Cert\\mlpracticecert.cert"
+  },
+  "taildata": {
+   "devcert": "C:\\Users\\magic\\Documents\\Unity\\ML CERTS\\Practice Cert\\mlpracticecert.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
